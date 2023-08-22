@@ -48,3 +48,19 @@ span.ingredient {
 a :hover {
     background-color: aquamarine;    
 }
+
+.list:hover {
+    background-color: red;
+}
+
+.timetable:hover {
+    background-color: blue;
+}
+
+.job:hover {
+    background-color: green;
+}
+
+.spandiv:hover {
+    background-color: yellow;
+}
