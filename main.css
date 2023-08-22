@@ -43,4 +43,8 @@
 span.ingredient {
     color: #f00;
     font-weight: bold;
-  }
+}
+
+a :hover {
+    background-color: aquamarine;    
+}
